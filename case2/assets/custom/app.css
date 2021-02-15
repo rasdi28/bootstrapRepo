@@ -1,0 +1,31 @@
+.navbar {
+    background-color: rgb(5, 5, 187);
+    color: rgb(41, 177, 36);
+    
+}
+
+
+.jumbotron {
+    background-color: rgb(146, 157, 196);
+    color: white;
+}
+.content {
+    background-color: white;
+}
+
+.content .container {
+    text-align: center;
+
+}
+.card-img-top {
+    width: 200px;
+
+}
+
+.section-footer {
+    background-color: rgb(5, 5, 66);
+}
+
+.footer {
+    background-color: blue;
+}
